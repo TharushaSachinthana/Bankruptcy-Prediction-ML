@@ -11,5 +11,5 @@ A machine learning project to predict company bankruptcy using financial indicat
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Bankruptcy-Prediction-ML.git
+   git clone https://github.com/TharushaSachinthana/Bankruptcy-Prediction-ML.git
    cd Bankruptcy-Prediction-ML
